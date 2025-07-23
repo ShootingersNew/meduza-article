@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-mf-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.2"
+  },
+  "devDependencies": {
+    "@nuxt/module-builder": "^0.4.0",
+    "webpack": "^5.0.0"
+  }
+}
